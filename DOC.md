@@ -12,8 +12,9 @@ helooeoeoe *helloween*
 helooeoeoe **helloween**
 >粗體
 
-helooeoeoe __helloween__
+helooeoeoe ~~helloween~~
 >刪除線
 
 helooeoeoe ***helloween***
 >斜體 + 粗體
+
