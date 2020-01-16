@@ -41,7 +41,7 @@ def hello():
 hello()
 ```
 
-![](./cover.jpg)
+![](./hi.jpg)
 
 > ./ 是在git-cli-startup的路徑上
 
