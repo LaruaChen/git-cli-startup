@@ -15,3 +15,11 @@ helooeoeoe **helloween**
 helooeoeoe ~~helloween~~ 刪除線  
 helooeoeoe ***helloween*** 斜體 + 粗體
 > 強制換行在最後面加兩的半形空白
+
+---
+
+<https://google.com>
+
+[Google](https://google.com)
+
+---
