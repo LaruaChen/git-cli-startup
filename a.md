@@ -4,10 +4,6 @@ Welcome to a.md
 
 
 
-
-
-
-
 > ./ 是在git-cli-startup的路徑上
 
 [Go to page DOC](./DOC.md)
